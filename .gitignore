@@ -1,0 +1,93 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# FVM Version Cache
+.fvm/
+
+# Generated output and caches
+**/build/
+.gradle/
+coverage/
+*.apk
+*.aab
+*.ipa
+*.dSYM/
+*.xcarchive/
+
+# Local secrets and credentials; examples must contain placeholders only
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.env
+credentials/
+secrets/
+.aws/
+credentials.json
+service-account*.json
+service_account*.json
+*-firebase-adminsdk-*.json
+google-services.json
+GoogleService-Info.plist
+.npmrc
+.netrc
+
+# Signing and machine-specific configuration
+key.properties
+keystore.properties
+local.properties
+*.jks
+*.keystore
+*.p12
+*.p8
+*.pfx
+*.pem
+*.key
+*.mobileprovision
+*.provisionprofile
+*.cer
+*.cert
+
+# SDK repair evidence stays on disk, outside version control
+/sdk-repair-backups/

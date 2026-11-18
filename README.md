@@ -1,8 +1,19 @@
 # Nutrify
 
 Nutrition and wellness application targeting **Android and iOS**. The project is
-in discovery and foundation development. The current app is the default Flutter
-counter scaffold; no Nutrify product feature is implemented.
+in discovery and foundation development. The current app displays the first
+Nutrify Splash screen using original exported logo/loader PNGs. It stays on Splash;
+startup services, onward navigation and loader animation are not implemented.
+
+The reusable theme and proportional layout use the verified 440 × 956 reference.
+Other aspect ratios contain that canvas without stretching the artwork. Native
+device status/navigation bars are used instead of the Figma mock clock/icons.
+See [design evidence](FIGMA_DESIGN_SPEC.md) for verified measurements and the
+distinction between measured properties and implementation decisions.
+
+Android/iOS native launch screens now use the original Nutrify logo on white.
+Android cold launch is verified; iOS runtime verification is pending. See
+[native launch notes](docs/NATIVE_LAUNCH.md) for screenshots and platform limits.
 
 ## Project context
 
@@ -67,7 +78,7 @@ provider selection remain unresolved; no backend integration is implemented.
 ## Proposed milestones
 
 1. Review full Figma frames/assets and resolve blocking owner questions.
-2. Implement a reviewed splash/theme/assets/test slice in a separately authorized task.
+2. Validate the Splash slice; define startup routing and approve loader motion separately.
 3. Establish navigation and onboarding, then approved backend/auth persistence.
 4. Deliver tracking and analytics, then approved AI, subscriptions and other integrations.
 5. Complete Android/iOS testing, accessibility, security, signing, store review and handover.

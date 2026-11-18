@@ -1,0 +1,181 @@
+{
+  "id": "145:895",
+  "name": "Splash Screen",
+  "width": 440,
+  "height": 956,
+  "fills": [
+    {
+      "type": "SOLID",
+      "visible": true,
+      "opacity": 1,
+      "blendMode": "NORMAL",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1
+      },
+      "boundVariables": {}
+    }
+  ],
+  "layoutMode": "NONE",
+  "clipsContent": true,
+  "texts": [
+    {
+      "id": "145:935",
+      "text": "9:41"
+    }
+  ],
+  "colors": [
+    {
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1
+      },
+      "opacity": 1,
+      "visible": true,
+      "nodeId": "145:895",
+      "property": "fills"
+    },
+    {
+      "color": {
+        "r": 0,
+        "g": 0.501960813999176,
+        "b": 0.501960813999176
+      },
+      "opacity": 1,
+      "visible": true,
+      "nodeId": "145:898",
+      "property": "fills"
+    },
+    {
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1
+      },
+      "opacity": 1,
+      "visible": false,
+      "nodeId": "145:918",
+      "property": "fills"
+    },
+    {
+      "color": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "opacity": 1,
+      "visible": true,
+      "nodeId": "145:919",
+      "property": "fills"
+    },
+    {
+      "color": {
+        "r": 0.8549019694328308,
+        "g": 0.8549019694328308,
+        "b": 0.8549019694328308
+      },
+      "opacity": 1,
+      "visible": true,
+      "nodeId": "145:930",
+      "property": "fills"
+    },
+    {
+      "color": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "opacity": 0.36000001430511475,
+      "visible": true,
+      "nodeId": "145:931",
+      "property": "fills"
+    },
+    {
+      "color": {
+        "r": 0,
+        "g": 0.29921868443489075,
+        "b": 0.29921868443489075
+      },
+      "opacity": 1,
+      "visible": true,
+      "nodeId": "145:802",
+      "property": "fills"
+    },
+    {
+      "color": {
+        "r": 0.9882352948188782,
+        "g": 0.9921568632125854,
+        "b": 0.4588235318660736
+      },
+      "opacity": 1,
+      "visible": true,
+      "nodeId": "145:880",
+      "property": "fills"
+    }
+  ],
+  "typography": [
+    {
+      "fontSize": 15,
+      "fontName": {
+        "family": "Montserrat",
+        "style": "Bold",
+        "variationSettings": {
+          "wght": 700
+        }
+      },
+      "lineHeight": {
+        "unit": "AUTO"
+      },
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": -0.16500000655651093
+      },
+      "nodeId": "145:935"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "145:918",
+      "name": "Symbols",
+      "x": 331.5062561035156,
+      "y": 26,
+      "width": 92.49369812011719,
+      "height": 12,
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 16,
+      "paddingTop": 0,
+      "paddingBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "primaryAxisAlignItems": "MIN",
+      "counterAxisAlignItems": "MIN",
+      "primaryAxisSizingMode": "FIXED",
+      "counterAxisSizingMode": "AUTO",
+      "cornerRadius": 0
+    }
+  ],
+  "images": [],
+  "instances": [],
+  "exports": [
+    {
+      "id": "145:789",
+      "name": "Copy of Logo Maker (1) 1",
+      "settings": [
+        {
+          "format": "PNG",
+          "suffix": "",
+          "contentsOnly": true,
+          "colorProfile": "DOCUMENT",
+          "constraint": {
+            "type": "WIDTH",
+            "value": 512
+          }
+        }
+      ]
+    }
+  ],
+  "reactions": [],
+  "nodeCount": 147
+}

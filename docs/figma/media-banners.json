@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1047:1590",
+    "name": "Twitter post",
+    "w": 1200,
+    "h": 675,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {}
+      }
+    ],
+    "children": 0
+  },
+  {
+    "id": "1047:1591",
+    "name": "Facebook post",
+    "w": 1200,
+    "h": 630,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {}
+      }
+    ],
+    "children": 0
+  },
+  {
+    "id": "1047:1592",
+    "name": "Instagram post",
+    "w": 1080,
+    "h": 1080,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {}
+      }
+    ],
+    "children": 0
+  }
+]

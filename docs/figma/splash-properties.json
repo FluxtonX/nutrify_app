@@ -1,0 +1,2762 @@
+{
+  "id": "145:895",
+  "name": "Splash Screen",
+  "type": "FRAME",
+  "x": 2266,
+  "y": -35,
+  "w": 440,
+  "h": 956,
+  "fills": [
+    {
+      "type": "SOLID",
+      "visible": true,
+      "opacity": 1,
+      "blendMode": "NORMAL",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1
+      },
+      "boundVariables": {}
+    }
+  ],
+  "strokeWeight": 1,
+  "cornerRadius": 0,
+  "constraints": {
+    "horizontal": "MIN",
+    "vertical": "MIN"
+  },
+  "layoutMode": "NONE",
+  "clipsContent": true,
+  "children": [
+    {
+      "id": "145:896",
+      "name": "Clip path group",
+      "type": "GROUP",
+      "x": 185,
+      "y": 785,
+      "w": 60,
+      "h": 60,
+      "children": [
+        {
+          "id": "145:897",
+          "name": "__lottie_element_4035",
+          "type": "GROUP",
+          "x": 185,
+          "y": 785,
+          "w": 60,
+          "h": 60,
+          "children": [
+            {
+              "id": "145:898",
+              "name": "Vector",
+              "type": "VECTOR",
+              "x": 185,
+              "y": 785,
+              "w": 60,
+              "h": 60,
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "visible": true,
+                  "opacity": 1,
+                  "blendMode": "NORMAL",
+                  "color": {
+                    "r": 0,
+                    "g": 0.501960813999176,
+                    "b": 0.501960813999176
+                  },
+                  "boundVariables": {}
+                }
+              ],
+              "strokeWeight": 1,
+              "cornerRadius": 0,
+              "constraints": {
+                "horizontal": "SCALE",
+                "vertical": "SCALE"
+              }
+            }
+          ]
+        },
+        {
+          "id": "145:899",
+          "name": "Group",
+          "type": "GROUP",
+          "x": 182.8134765625,
+          "y": 782.7758345603943,
+          "w": 64.53302001953125,
+          "h": 64.53279113769531,
+          "children": [
+            {
+              "id": "145:900",
+              "name": "Group",
+              "type": "GROUP",
+              "x": 247.3466796875,
+              "y": 795.7702860832214,
+              "w": 53.151302337646484,
+              "h": 53.151607513427734,
+              "children": [
+                {
+                  "id": "145:901",
+                  "name": "Group",
+                  "type": "GROUP",
+                  "x": 232.49999983749467,
+                  "y": 829.2937029441403,
+                  "w": 10.815974235534668,
+                  "h": 10.815900802612305,
+                  "children": [
+                    {
+                      "id": "145:902",
+                      "name": "Vector",
+                      "type": "VECTOR",
+                      "x": 232.49999983749467,
+                      "y": 829.2937029441403,
+                      "w": 10.815974235534668,
+                      "h": 10.815900802612305,
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "visible": true,
+                          "opacity": 1,
+                          "blendMode": "NORMAL",
+                          "color": {
+                            "r": 0,
+                            "g": 0.501960813999176,
+                            "b": 0.501960813999176
+                          },
+                          "boundVariables": {}
+                        }
+                      ],
+                      "strokeWeight": 1,
+                      "cornerRadius": 0,
+                      "constraints": {
+                        "horizontal": "SCALE",
+                        "vertical": "SCALE"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "145:903",
+                  "name": "Group",
+                  "type": "GROUP",
+                  "x": 210.79199374796488,
+                  "y": 792.9474660184418,
+                  "w": 10.816200256347656,
+                  "h": 10.815900802612305,
+                  "children": [
+                    {
+                      "id": "145:904",
+                      "name": "Vector",
+                      "type": "VECTOR",
+                      "x": 210.79199374796488,
+                      "y": 792.9474660184418,
+                      "w": 10.816200256347656,
+                      "h": 10.815900802612305,
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "visible": true,
+                          "opacity": 1,
+                          "blendMode": "NORMAL",
+                          "color": {
+                            "r": 0,
+                            "g": 0.501960813999176,
+                            "b": 0.501960813999176
+                          },
+                          "boundVariables": {}
+                        }
+                      ],
+                      "strokeWeight": 1,
+                      "cornerRadius": 0,
+                      "constraints": {
+                        "horizontal": "SCALE",
+                        "vertical": "SCALE"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "145:905",
+                  "name": "Group",
+                  "type": "GROUP",
+                  "x": 203.47314399419702,
+                  "y": 821.9750749954557,
+                  "w": 10.815674781799316,
+                  "h": 10.815900802612305,
+                  "children": [
+                    {
+                      "id": "145:906",
+                      "name": "Vector",
+                      "type": "VECTOR",
+                      "x": 203.47314399419702,
+                      "y": 821.9750749954557,
+                      "w": 10.815674781799316,
+                      "h": 10.815900802612305,
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "visible": true,
+                          "opacity": 1,
+                          "blendMode": "NORMAL",
+                          "color": {
+                            "r": 0,
+                            "g": 0.501960813999176,
+                            "b": 0.501960813999176
+                          },
+                          "boundVariables": {}
+                        }
+                      ],
+                      "strokeWeight": 1,
+                      "cornerRadius": 0,
+                      "constraints": {
+                        "horizontal": "SCALE",
+                        "vertical": "SCALE"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "145:907",
+                  "name": "Group",
+                  "type": "GROUP",
+                  "x": 239.81884774572885,
+                  "y": 800.2660915347764,
+                  "w": 10.816200256347656,
+                  "h": 10.815900802612305,
+                  "children": [
+                    {
+                      "id": "145:908",
+                      "name": "Vector",
+                      "type": "VECTOR",
+                      "x": 239.81884774572885,
+                      "y": 800.2660915347764,
+                      "w": 10.816200256347656,
+                      "h": 10.815900802612305,
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "visible": true,
+                          "opacity": 1,
+                          "blendMode": "NORMAL",
+                          "color": {
+                            "r": 0,
+                            "g": 0.501960813999176,
+                            "b": 0.501960813999176
+                          },
+                          "boundVariables": {}
+                        }
+                      ],
+                      "strokeWeight": 1,
+                      "cornerRadius": 0,
+                      "constraints": {
+                        "horizontal": "SCALE",
+                        "vertical": "SCALE"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "145:909",
+                  "name": "Group",
+                  "type": "GROUP",
+                  "x": 201.12060700188678,
+                  "y": 805.9454235576176,
+                  "w": 10.816200256347656,
+                  "h": 10.816200256347656,
+                  "children": [
+                    {
+                      "id": "145:910",
+                      "name": "Vector",
+                      "type": "VECTOR",
+                      "x": 201.12060700188678,
+                      "y": 805.9454235576176,
+                      "w": 10.816200256347656,
+                      "h": 10.816200256347656,
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "visible": true,
+                          "opacity": 1,
+                          "blendMode": "NORMAL",
+                          "color": {
+                            "r": 0,
+                            "g": 0.501960813999176,
+                            "b": 0.501960813999176
+                          },
+                          "boundVariables": {}
+                        }
+                      ],
+                      "strokeWeight": 1,
+                      "cornerRadius": 0,
+                      "constraints": {
+                        "horizontal": "SCALE",
+                        "vertical": "SCALE"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "145:911",
+                  "name": "Group",
+                  "type": "GROUP",
+                  "x": 242.1713865595038,
+                  "y": 816.295743923617,
+                  "w": 10.816200256347656,
+                  "h": 10.816200256347656,
+                  "children": [
+                    {
+                      "id": "145:912",
+                      "name": "Vector",
+                      "type": "VECTOR",
+                      "x": 242.1713865595038,
+                      "y": 816.295743923617,
+                      "w": 10.816200256347656,
+                      "h": 10.816200256347656,
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "visible": true,
+                          "opacity": 1,
+                          "blendMode": "NORMAL",
+                          "color": {
+                            "r": 0,
+                            "g": 0.501960813999176,
+                            "b": 0.501960813999176
+                          },
+                          "boundVariables": {}
+                        }
+                      ],
+                      "strokeWeight": 1,
+                      "cornerRadius": 0,
+                      "constraints": {
+                        "horizontal": "SCALE",
+                        "vertical": "SCALE"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "145:913",
+                  "name": "Group",
+                  "type": "GROUP",
+                  "x": 226.82128951690692,
+                  "y": 790.5951929804597,
+                  "w": 10.816200256347656,
+                  "h": 10.816200256347656,
+                  "children": [
+                    {
+                      "id": "145:914",
+                      "name": "Vector",
+                      "type": "VECTOR",
+                      "x": 226.82128951690692,
+                      "y": 790.5951929804597,
+                      "w": 10.816200256347656,
+                      "h": 10.816200256347656,
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "visible": true,
+                          "opacity": 1,
+                          "blendMode": "NORMAL",
+                          "color": {
+                            "r": 0,
+                            "g": 0.501960813999176,
+                            "b": 0.501960813999176
+                          },
+                          "boundVariables": {}
+                        }
+                      ],
+                      "strokeWeight": 1,
+                      "cornerRadius": 0,
+                      "constraints": {
+                        "horizontal": "SCALE",
+                        "vertical": "SCALE"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "145:915",
+                  "name": "Group",
+                  "type": "GROUP",
+                  "x": 216.4711920907642,
+                  "y": 831.6462404610961,
+                  "w": 10.81559944152832,
+                  "h": 10.816200256347656,
+                  "children": [
+                    {
+                      "id": "145:916",
+                      "name": "Vector",
+                      "type": "VECTOR",
+                      "x": 216.4711920907642,
+                      "y": 831.6462404610961,
+                      "w": 10.81559944152832,
+                      "h": 10.816200256347656,
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "visible": true,
+                          "opacity": 1,
+                          "blendMode": "NORMAL",
+                          "color": {
+                            "r": 0,
+                            "g": 0.501960813999176,
+                            "b": 0.501960813999176
+                          },
+                          "boundVariables": {}
+                        }
+                      ],
+                      "strokeWeight": 1,
+                      "cornerRadius": 0,
+                      "constraints": {
+                        "horizontal": "SCALE",
+                        "vertical": "SCALE"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "145:917",
+      "name": "Group 583",
+      "type": "GROUP",
+      "x": 16,
+      "y": 23,
+      "w": 408,
+      "h": 18,
+      "children": [
+        {
+          "id": "145:918",
+          "name": "Symbols",
+          "type": "FRAME",
+          "x": 331.5062561035156,
+          "y": 26,
+          "w": 92.49369812011719,
+          "h": 12,
+          "fills": [
+            {
+              "type": "SOLID",
+              "visible": false,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "color": {
+                "r": 1,
+                "g": 1,
+                "b": 1
+              },
+              "boundVariables": {}
+            }
+          ],
+          "strokeWeight": 1,
+          "cornerRadius": 0,
+          "constraints": {
+            "horizontal": "MIN",
+            "vertical": "MIN"
+          },
+          "layoutMode": "HORIZONTAL",
+          "clipsContent": true,
+          "children": [
+            {
+              "id": "145:919",
+              "name": "Combined Shape",
+              "type": "BOOLEAN_OPERATION",
+              "x": 0,
+              "y": 0,
+              "w": 18,
+              "h": 12.000025749206543,
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "visible": true,
+                  "opacity": 1,
+                  "blendMode": "NORMAL",
+                  "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0
+                  },
+                  "boundVariables": {}
+                }
+              ],
+              "strokeWeight": 0,
+              "cornerRadius": 0,
+              "children": [
+                {
+                  "id": "145:920",
+                  "name": "Rectangle",
+                  "type": "RECTANGLE",
+                  "x": -3.637978807091713e-12,
+                  "y": 7.513960838317871,
+                  "w": 3.1579668521881104,
+                  "h": 4.4859795570373535,
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 0,
+                        "g": 0,
+                        "b": 0
+                      },
+                      "boundVariables": {}
+                    }
+                  ],
+                  "strokeWeight": 0,
+                  "cornerRadius": 1.2000000476837158,
+                  "constraints": {
+                    "horizontal": "SCALE",
+                    "vertical": "SCALE"
+                  }
+                },
+                {
+                  "id": "145:921",
+                  "name": "Rectangle",
+                  "type": "RECTANGLE",
+                  "x": 5.052832126617432,
+                  "y": 5.27099609375,
+                  "w": 3.1579668521881104,
+                  "h": 6.728969097137451,
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 0,
+                        "g": 0,
+                        "b": 0
+                      },
+                      "boundVariables": {}
+                    }
+                  ],
+                  "strokeWeight": 0,
+                  "cornerRadius": 1.2000000476837158,
+                  "constraints": {
+                    "horizontal": "SCALE",
+                    "vertical": "SCALE"
+                  }
+                },
+                {
+                  "id": "145:922",
+                  "name": "Rectangle",
+                  "type": "RECTANGLE",
+                  "x": 9.895605087280273,
+                  "y": 2.691650390625,
+                  "w": 3.1579668521881104,
+                  "h": 9.30841064453125,
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 0,
+                        "g": 0,
+                        "b": 0
+                      },
+                      "boundVariables": {}
+                    }
+                  ],
+                  "strokeWeight": 0,
+                  "cornerRadius": 1.2000000476837158,
+                  "constraints": {
+                    "horizontal": "SCALE",
+                    "vertical": "SCALE"
+                  }
+                },
+                {
+                  "id": "145:923",
+                  "name": "Rectangle",
+                  "type": "RECTANGLE",
+                  "x": 14.842089653015137,
+                  "y": 0,
+                  "w": 3.1579668521881104,
+                  "h": 11.999994277954102,
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 0,
+                        "g": 0,
+                        "b": 0
+                      },
+                      "boundVariables": {}
+                    }
+                  ],
+                  "strokeWeight": 0,
+                  "cornerRadius": 1.2000000476837158,
+                  "constraints": {
+                    "horizontal": "SCALE",
+                    "vertical": "SCALE"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "145:924",
+              "name": "Wi-Fi",
+              "type": "BOOLEAN_OPERATION",
+              "x": 34,
+              "y": 0,
+              "w": 16,
+              "h": 12,
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "visible": true,
+                  "opacity": 1,
+                  "blendMode": "NORMAL",
+                  "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0
+                  },
+                  "boundVariables": {}
+                }
+              ],
+              "strokeWeight": 0,
+              "cornerRadius": 0,
+              "children": [
+                {
+                  "id": "145:925",
+                  "name": "Path",
+                  "type": "VECTOR",
+                  "x": 34,
+                  "y": 8.881784197001252e-16,
+                  "w": 16,
+                  "h": 5.190688133239746,
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 0,
+                        "g": 0,
+                        "b": 0
+                      },
+                      "boundVariables": {}
+                    }
+                  ],
+                  "strokeWeight": 0,
+                  "cornerRadius": 0,
+                  "constraints": {
+                    "horizontal": "SCALE",
+                    "vertical": "SCALE"
+                  }
+                },
+                {
+                  "id": "145:926",
+                  "name": "Path",
+                  "type": "VECTOR",
+                  "x": 36.790178537368774,
+                  "y": 4.1519775390625,
+                  "w": 10.423015594482422,
+                  "h": 3.9767889976501465,
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 0,
+                        "g": 0,
+                        "b": 0
+                      },
+                      "boundVariables": {}
+                    }
+                  ],
+                  "strokeWeight": 0,
+                  "cornerRadius": 0,
+                  "constraints": {
+                    "horizontal": "SCALE",
+                    "vertical": "SCALE"
+                  }
+                },
+                {
+                  "id": "145:927",
+                  "name": "Path",
+                  "type": "VECTOR",
+                  "x": 39.57731342315674,
+                  "y": 8.307373046875,
+                  "w": 4.846708297729492,
+                  "h": 3.6927287578582764,
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 0,
+                        "g": 0,
+                        "b": 0
+                      },
+                      "boundVariables": {}
+                    }
+                  ],
+                  "strokeWeight": 0,
+                  "cornerRadius": 0,
+                  "constraints": {
+                    "horizontal": "SCALE",
+                    "vertical": "SCALE"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "145:928",
+              "name": "Battery",
+              "type": "GROUP",
+              "x": 66,
+              "y": 0,
+              "w": 23.99966049194336,
+              "h": 12,
+              "children": [
+                {
+                  "id": "145:929",
+                  "name": "Rectangle",
+                  "type": "BOOLEAN_OPERATION",
+                  "x": 66,
+                  "y": 0,
+                  "w": 23.99966049194336,
+                  "h": 12,
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 0,
+                        "g": 0,
+                        "b": 0
+                      },
+                      "boundVariables": {}
+                    }
+                  ],
+                  "strokeWeight": 0,
+                  "cornerRadius": 0,
+                  "children": [
+                    {
+                      "id": "145:930",
+                      "name": "Exclude",
+                      "type": "BOOLEAN_OPERATION",
+                      "x": 66,
+                      "y": 0,
+                      "w": 21.5510196685791,
+                      "h": 12,
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "visible": true,
+                          "opacity": 1,
+                          "blendMode": "NORMAL",
+                          "color": {
+                            "r": 0.8549019694328308,
+                            "g": 0.8549019694328308,
+                            "b": 0.8549019694328308
+                          },
+                          "boundVariables": {}
+                        }
+                      ],
+                      "strokeWeight": 0,
+                      "cornerRadius": 0,
+                      "children": [
+                        {
+                          "id": "145:931",
+                          "name": "Path",
+                          "type": "VECTOR",
+                          "x": 66.9794921875,
+                          "y": 1.04347825050354,
+                          "w": 19.59183692932129,
+                          "h": 9.913043022155762,
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "visible": true,
+                              "opacity": 0.36000001430511475,
+                              "blendMode": "NORMAL",
+                              "color": {
+                                "r": 0,
+                                "g": 0,
+                                "b": 0
+                              },
+                              "boundVariables": {}
+                            }
+                          ],
+                          "strokeWeight": 0,
+                          "cornerRadius": 0,
+                          "constraints": {
+                            "horizontal": "MAX",
+                            "vertical": "CENTER"
+                          }
+                        },
+                        {
+                          "id": "145:932",
+                          "name": "Path",
+                          "type": "VECTOR",
+                          "x": 66,
+                          "y": 0,
+                          "w": 21.5510196685791,
+                          "h": 12,
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "visible": true,
+                              "opacity": 0.36000001430511475,
+                              "blendMode": "NORMAL",
+                              "color": {
+                                "r": 0,
+                                "g": 0,
+                                "b": 0
+                              },
+                              "boundVariables": {}
+                            }
+                          ],
+                          "strokeWeight": 0,
+                          "cornerRadius": 0,
+                          "constraints": {
+                            "horizontal": "MAX",
+                            "vertical": "CENTER"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "145:933",
+                      "name": "Path",
+                      "type": "VECTOR",
+                      "x": 88.5302734375,
+                      "y": 3.8503737449645996,
+                      "w": 1.4693877696990967,
+                      "h": 4.17391300201416,
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "visible": true,
+                          "opacity": 0.36000001430511475,
+                          "blendMode": "NORMAL",
+                          "color": {
+                            "r": 0,
+                            "g": 0,
+                            "b": 0
+                          },
+                          "boundVariables": {}
+                        }
+                      ],
+                      "strokeWeight": 0,
+                      "cornerRadius": 0,
+                      "constraints": {
+                        "horizontal": "MAX",
+                        "vertical": "CENTER"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "145:934",
+                  "name": "Rectangle",
+                  "type": "RECTANGLE",
+                  "x": 68,
+                  "y": 2,
+                  "w": 13,
+                  "h": 8,
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 0,
+                        "g": 0,
+                        "b": 0
+                      },
+                      "boundVariables": {}
+                    }
+                  ],
+                  "strokes": [
+                    {
+                      "type": "SOLID",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 0,
+                        "g": 0,
+                        "b": 0
+                      },
+                      "boundVariables": {}
+                    }
+                  ],
+                  "strokeWeight": 0,
+                  "cornerRadius": 1.600000023841858,
+                  "constraints": {
+                    "horizontal": "MAX",
+                    "vertical": "CENTER"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "145:935",
+          "name": "Time",
+          "type": "TEXT",
+          "x": 16,
+          "y": 23,
+          "w": 42.75807189941406,
+          "h": 18,
+          "fills": [
+            {
+              "type": "SOLID",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+              },
+              "boundVariables": {}
+            }
+          ],
+          "strokeWeight": 0,
+          "constraints": {
+            "horizontal": "MIN",
+            "vertical": "MIN"
+          },
+          "text": [
+            {
+              "characters": "9:41",
+              "start": 0,
+              "end": 4,
+              "fontSize": 15,
+              "fontName": {
+                "family": "Montserrat",
+                "style": "Bold",
+                "variationSettings": {
+                  "wght": 700
+                }
+              },
+              "lineHeight": {
+                "unit": "AUTO"
+              },
+              "letterSpacing": {
+                "unit": "PIXELS",
+                "value": -0.16500000655651093
+              },
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "visible": true,
+                  "opacity": 1,
+                  "blendMode": "NORMAL",
+                  "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0
+                  },
+                  "boundVariables": {}
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "145:789",
+      "name": "Copy of Logo Maker (1) 1",
+      "type": "FRAME",
+      "x": 147,
+      "y": 405,
+      "w": 146,
+      "h": 146,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": false,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1
+          },
+          "boundVariables": {}
+        }
+      ],
+      "exportSettings": [
+        {
+          "format": "PNG",
+          "suffix": "",
+          "contentsOnly": true,
+          "colorProfile": "DOCUMENT",
+          "constraint": {
+            "type": "WIDTH",
+            "value": 512
+          }
+        }
+      ],
+      "strokeWeight": 1,
+      "cornerRadius": 0,
+      "constraints": {
+        "horizontal": "MIN",
+        "vertical": "MIN"
+      },
+      "layoutMode": "NONE",
+      "clipsContent": true,
+      "children": [
+        {
+          "id": "145:790",
+          "name": "Clip path group",
+          "type": "GROUP",
+          "x": 13.383331298828125,
+          "y": 13.626665115356445,
+          "w": 118.98999786376953,
+          "h": 118.98999786376953,
+          "children": [
+            {
+              "id": "145:791",
+              "name": "84dcbf81c6",
+              "type": "GROUP",
+              "x": 13.383331298828125,
+              "y": 13.626665115356445,
+              "w": 118.98999786376953,
+              "h": 118.98999786376953,
+              "children": [
+                {
+                  "id": "145:792",
+                  "name": "Vector",
+                  "type": "VECTOR",
+                  "x": 13.383331298828125,
+                  "y": 13.626665115356445,
+                  "w": 118.98999786376953,
+                  "h": 118.98999786376953,
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 0,
+                        "g": 0,
+                        "b": 0
+                      },
+                      "boundVariables": {}
+                    }
+                  ],
+                  "strokeWeight": 1.3333333730697632,
+                  "cornerRadius": 0,
+                  "constraints": {
+                    "horizontal": "SCALE",
+                    "vertical": "SCALE"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "145:793",
+              "name": "Group",
+              "type": "GROUP",
+              "x": -15.279624938964844,
+              "y": -15.32335090637207,
+              "w": 176.52597045898438,
+              "h": 176.5250244140625,
+              "children": [
+                {
+                  "id": "145:794",
+                  "name": "Clip path group",
+                  "type": "GROUP",
+                  "x": -15.279624938964844,
+                  "y": -15.32335090637207,
+                  "w": 176.52597045898438,
+                  "h": 176.5250244140625,
+                  "children": [
+                    {
+                      "id": "145:795",
+                      "name": "a6744beb0a",
+                      "type": "GROUP",
+                      "x": -15.279624938964844,
+                      "y": -15.32335090637207,
+                      "w": 176.52597045898438,
+                      "h": 176.5250244140625,
+                      "children": [
+                        {
+                          "id": "145:796",
+                          "name": "Vector",
+                          "type": "VECTOR",
+                          "x": -15.279624938964844,
+                          "y": -15.32335090637207,
+                          "w": 176.52597045898438,
+                          "h": 176.5250244140625,
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "visible": true,
+                              "opacity": 1,
+                              "blendMode": "NORMAL",
+                              "color": {
+                                "r": 0,
+                                "g": 0,
+                                "b": 0
+                              },
+                              "boundVariables": {}
+                            }
+                          ],
+                          "strokeWeight": 1.3333333730697632,
+                          "cornerRadius": 0,
+                          "constraints": {
+                            "horizontal": "SCALE",
+                            "vertical": "SCALE"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "145:797",
+                      "name": "Group",
+                      "type": "GROUP",
+                      "x": -15.279624938964844,
+                      "y": -15.32335090637207,
+                      "w": 176.52597045898438,
+                      "h": 176.5250244140625,
+                      "children": [
+                        {
+                          "id": "145:798",
+                          "name": "Clip path group",
+                          "type": "GROUP",
+                          "x": -15.279624938964844,
+                          "y": -15.32335090637207,
+                          "w": 176.52597045898438,
+                          "h": 176.5250244140625,
+                          "children": [
+                            {
+                              "id": "145:799",
+                              "name": "a86a473551",
+                              "type": "GROUP",
+                              "x": -15.279624938964844,
+                              "y": -15.32335090637207,
+                              "w": 176.52597045898438,
+                              "h": 176.5250244140625,
+                              "children": [
+                                {
+                                  "id": "145:800",
+                                  "name": "Vector",
+                                  "type": "VECTOR",
+                                  "x": -15.279624938964844,
+                                  "y": -15.32335090637207,
+                                  "w": 176.52597045898438,
+                                  "h": 176.5250244140625,
+                                  "fills": [
+                                    {
+                                      "type": "SOLID",
+                                      "visible": true,
+                                      "opacity": 1,
+                                      "blendMode": "NORMAL",
+                                      "color": {
+                                        "r": 0,
+                                        "g": 0,
+                                        "b": 0
+                                      },
+                                      "boundVariables": {}
+                                    }
+                                  ],
+                                  "strokeWeight": 1.3333333730697632,
+                                  "cornerRadius": 0,
+                                  "constraints": {
+                                    "horizontal": "SCALE",
+                                    "vertical": "SCALE"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "id": "145:801",
+                              "name": "Group",
+                              "type": "GROUP",
+                              "x": 13.626016616821289,
+                              "y": 13.626968383789062,
+                              "w": 118.74767303466797,
+                              "h": 118.74767303466797,
+                              "children": [
+                                {
+                                  "id": "145:802",
+                                  "name": "Vector",
+                                  "type": "VECTOR",
+                                  "x": 13.626016616821289,
+                                  "y": 13.626968383789062,
+                                  "w": 118.74767303466797,
+                                  "h": 118.74767303466797,
+                                  "fills": [
+                                    {
+                                      "type": "SOLID",
+                                      "visible": true,
+                                      "opacity": 1,
+                                      "blendMode": "NORMAL",
+                                      "color": {
+                                        "r": 0,
+                                        "g": 0.29921868443489075,
+                                        "b": 0.29921868443489075
+                                      },
+                                      "boundVariables": {}
+                                    }
+                                  ],
+                                  "strokeWeight": 1.3333333730697632,
+                                  "cornerRadius": 0,
+                                  "constraints": {
+                                    "horizontal": "SCALE",
+                                    "vertical": "SCALE"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "145:803",
+          "name": "Clip path group",
+          "type": "GROUP",
+          "x": 8.273331642150879,
+          "y": 8.273331642150879,
+          "w": 129.45333862304688,
+          "h": 129.45333862304688,
+          "children": [
+            {
+              "id": "145:804",
+              "name": "61a4a635d9",
+              "type": "GROUP",
+              "x": 8.273331642150879,
+              "y": 8.273331642150879,
+              "w": 129.45333862304688,
+              "h": 129.45333862304688,
+              "children": [
+                {
+                  "id": "145:805",
+                  "name": "Vector",
+                  "type": "VECTOR",
+                  "x": 8.273331642150879,
+                  "y": 8.273331642150879,
+                  "w": 129.45333862304688,
+                  "h": 129.45333862304688,
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 0,
+                        "g": 0,
+                        "b": 0
+                      },
+                      "boundVariables": {}
+                    }
+                  ],
+                  "strokeWeight": 1.3333333730697632,
+                  "cornerRadius": 0,
+                  "constraints": {
+                    "horizontal": "SCALE",
+                    "vertical": "SCALE"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "145:806",
+              "name": "Group",
+              "type": "GROUP",
+              "x": -15.27962589263916,
+              "y": -15.323348045349121,
+              "w": 176.52597045898438,
+              "h": 176.5250244140625,
+              "children": [
+                {
+                  "id": "145:807",
+                  "name": "Clip path group",
+                  "type": "GROUP",
+                  "x": -15.27962589263916,
+                  "y": -15.323348045349121,
+                  "w": 176.52597045898438,
+                  "h": 176.5250244140625,
+                  "children": [
+                    {
+                      "id": "145:808",
+                      "name": "125229e80a",
+                      "type": "GROUP",
+                      "x": -15.27962589263916,
+                      "y": -15.323348045349121,
+                      "w": 176.52597045898438,
+                      "h": 176.5250244140625,
+                      "children": [
+                        {
+                          "id": "145:809",
+                          "name": "Vector",
+                          "type": "VECTOR",
+                          "x": -15.27962589263916,
+                          "y": -15.323348045349121,
+                          "w": 176.52597045898438,
+                          "h": 176.5250244140625,
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "visible": true,
+                              "opacity": 1,
+                              "blendMode": "NORMAL",
+                              "color": {
+                                "r": 0,
+                                "g": 0,
+                                "b": 0
+                              },
+                              "boundVariables": {}
+                            }
+                          ],
+                          "strokeWeight": 1.3333333730697632,
+                          "cornerRadius": 0,
+                          "constraints": {
+                            "horizontal": "SCALE",
+                            "vertical": "SCALE"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "145:810",
+                      "name": "Group",
+                      "type": "GROUP",
+                      "x": -15.27962589263916,
+                      "y": -15.323348045349121,
+                      "w": 176.52597045898438,
+                      "h": 176.5250244140625,
+                      "children": [
+                        {
+                          "id": "145:811",
+                          "name": "Clip path group",
+                          "type": "GROUP",
+                          "x": -15.27962589263916,
+                          "y": -15.323348045349121,
+                          "w": 176.52597045898438,
+                          "h": 176.5250244140625,
+                          "children": [
+                            {
+                              "id": "145:812",
+                              "name": "b0b89dfdf6",
+                              "type": "GROUP",
+                              "x": -15.27962589263916,
+                              "y": -15.323348045349121,
+                              "w": 176.52597045898438,
+                              "h": 176.5250244140625,
+                              "children": [
+                                {
+                                  "id": "145:813",
+                                  "name": "Vector",
+                                  "type": "VECTOR",
+                                  "x": -15.27962589263916,
+                                  "y": -15.323348045349121,
+                                  "w": 176.52597045898438,
+                                  "h": 176.5250244140625,
+                                  "fills": [
+                                    {
+                                      "type": "SOLID",
+                                      "visible": true,
+                                      "opacity": 1,
+                                      "blendMode": "NORMAL",
+                                      "color": {
+                                        "r": 0,
+                                        "g": 0,
+                                        "b": 0
+                                      },
+                                      "boundVariables": {}
+                                    }
+                                  ],
+                                  "strokeWeight": 1.3333333730697632,
+                                  "cornerRadius": 0,
+                                  "constraints": {
+                                    "horizontal": "SCALE",
+                                    "vertical": "SCALE"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "id": "145:814",
+                              "name": "Group",
+                              "type": "GROUP",
+                              "x": 8.338833808898926,
+                              "y": 8.3397855758667,
+                              "w": 129.32191467285156,
+                              "h": 129.32191467285156,
+                              "children": [
+                                {
+                                  "id": "145:815",
+                                  "name": "Vector",
+                                  "type": "VECTOR",
+                                  "x": 8.338833808898926,
+                                  "y": 8.3397855758667,
+                                  "w": 129.32191467285156,
+                                  "h": 129.32191467285156,
+                                  "fills": [
+                                    {
+                                      "type": "SOLID",
+                                      "visible": true,
+                                      "opacity": 1,
+                                      "blendMode": "NORMAL",
+                                      "color": {
+                                        "r": 0,
+                                        "g": 0.29921868443489075,
+                                        "b": 0.29921868443489075
+                                      },
+                                      "boundVariables": {}
+                                    }
+                                  ],
+                                  "strokeWeight": 1.3333333730697632,
+                                  "cornerRadius": 0,
+                                  "constraints": {
+                                    "horizontal": "SCALE",
+                                    "vertical": "SCALE"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1362:655",
+          "name": "Group 1000004651",
+          "type": "GROUP",
+          "x": 42.340087890625,
+          "y": 33.58001708984375,
+          "w": 55.479915618896484,
+          "h": 76.16331481933594,
+          "children": [
+            {
+              "id": "145:816",
+              "name": "Clip path group",
+              "type": "GROUP",
+              "x": 42.340087890625,
+              "y": 52.073333740234375,
+              "w": 47.93667221069336,
+              "h": 57.66999816894531,
+              "children": [
+                {
+                  "id": "145:817",
+                  "name": "a268326d1d",
+                  "type": "GROUP",
+                  "x": 42.340087890625,
+                  "y": 52.073333740234375,
+                  "w": 47.93667221069336,
+                  "h": 57.66999816894531,
+                  "children": [
+                    {
+                      "id": "145:818",
+                      "name": "Vector",
+                      "type": "VECTOR",
+                      "x": 42.340087890625,
+                      "y": 52.073333740234375,
+                      "w": 47.93667221069336,
+                      "h": 57.66999816894531,
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "visible": true,
+                          "opacity": 1,
+                          "blendMode": "NORMAL",
+                          "color": {
+                            "r": 0,
+                            "g": 0,
+                            "b": 0
+                          },
+                          "boundVariables": {}
+                        }
+                      ],
+                      "strokeWeight": 1.3333333730697632,
+                      "cornerRadius": 0,
+                      "constraints": {
+                        "horizontal": "SCALE",
+                        "vertical": "SCALE"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "145:819",
+                  "name": "Group",
+                  "type": "GROUP",
+                  "x": -15.279537200927734,
+                  "y": -15.323348999023438,
+                  "w": 176.52597045898438,
+                  "h": 176.5250244140625,
+                  "children": [
+                    {
+                      "id": "145:820",
+                      "name": "Clip path group",
+                      "type": "GROUP",
+                      "x": -15.279537200927734,
+                      "y": -15.323348999023438,
+                      "w": 176.52597045898438,
+                      "h": 176.5250244140625,
+                      "children": [
+                        {
+                          "id": "145:821",
+                          "name": "00439bd2da",
+                          "type": "GROUP",
+                          "x": -15.279537200927734,
+                          "y": -15.323348999023438,
+                          "w": 176.52597045898438,
+                          "h": 176.5250244140625,
+                          "children": [
+                            {
+                              "id": "145:822",
+                              "name": "Vector",
+                              "type": "VECTOR",
+                              "x": -15.279537200927734,
+                              "y": -15.323348999023438,
+                              "w": 176.52597045898438,
+                              "h": 176.5250244140625,
+                              "fills": [
+                                {
+                                  "type": "SOLID",
+                                  "visible": true,
+                                  "opacity": 1,
+                                  "blendMode": "NORMAL",
+                                  "color": {
+                                    "r": 0,
+                                    "g": 0,
+                                    "b": 0
+                                  },
+                                  "boundVariables": {}
+                                }
+                              ],
+                              "strokeWeight": 1.3333333730697632,
+                              "cornerRadius": 0,
+                              "constraints": {
+                                "horizontal": "SCALE",
+                                "vertical": "SCALE"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "145:823",
+                          "name": "Group",
+                          "type": "GROUP",
+                          "x": -15.279537200927734,
+                          "y": -15.323348999023438,
+                          "w": 176.52597045898438,
+                          "h": 176.5250244140625,
+                          "children": [
+                            {
+                              "id": "145:824",
+                              "name": "Clip path group",
+                              "type": "GROUP",
+                              "x": -15.279537200927734,
+                              "y": -15.323348999023438,
+                              "w": 176.52597045898438,
+                              "h": 176.5250244140625,
+                              "children": [
+                                {
+                                  "id": "145:825",
+                                  "name": "b4d6f1ab7f",
+                                  "type": "GROUP",
+                                  "x": -15.279537200927734,
+                                  "y": -15.323348999023438,
+                                  "w": 176.52597045898438,
+                                  "h": 176.5250244140625,
+                                  "children": [
+                                    {
+                                      "id": "145:826",
+                                      "name": "Vector",
+                                      "type": "VECTOR",
+                                      "x": -15.279537200927734,
+                                      "y": -15.323348999023438,
+                                      "w": 176.52597045898438,
+                                      "h": 176.5250244140625,
+                                      "fills": [
+                                        {
+                                          "type": "SOLID",
+                                          "visible": true,
+                                          "opacity": 1,
+                                          "blendMode": "NORMAL",
+                                          "color": {
+                                            "r": 0,
+                                            "g": 0,
+                                            "b": 0
+                                          },
+                                          "boundVariables": {}
+                                        }
+                                      ],
+                                      "strokeWeight": 1.3333333730697632,
+                                      "cornerRadius": 0,
+                                      "constraints": {
+                                        "horizontal": "SCALE",
+                                        "vertical": "SCALE"
+                                      }
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "145:827",
+                                  "name": "Group",
+                                  "type": "GROUP",
+                                  "x": 42.56195831298828,
+                                  "y": 52.26054382324219,
+                                  "w": 47.68980407714844,
+                                  "h": 57.386714935302734,
+                                  "children": [
+                                    {
+                                      "id": "145:828",
+                                      "name": "Vector",
+                                      "type": "VECTOR",
+                                      "x": 42.56195831298828,
+                                      "y": 52.26054382324219,
+                                      "w": 47.68980407714844,
+                                      "h": 57.386714935302734,
+                                      "fills": [
+                                        {
+                                          "type": "SOLID",
+                                          "visible": true,
+                                          "opacity": 1,
+                                          "blendMode": "NORMAL",
+                                          "color": {
+                                            "r": 1,
+                                            "g": 1,
+                                            "b": 1
+                                          },
+                                          "boundVariables": {}
+                                        }
+                                      ],
+                                      "strokeWeight": 1.3333333730697632,
+                                      "cornerRadius": 0,
+                                      "constraints": {
+                                        "horizontal": "SCALE",
+                                        "vertical": "SCALE"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "145:829",
+              "name": "Clip path group",
+              "type": "GROUP",
+              "x": 81.5166015625,
+              "y": 33.58001708984375,
+              "w": 6.326666831970215,
+              "h": 21.899999618530273,
+              "children": [
+                {
+                  "id": "145:830",
+                  "name": "296658396e",
+                  "type": "GROUP",
+                  "x": 81.5166015625,
+                  "y": 33.58001708984375,
+                  "w": 6.326666831970215,
+                  "h": 21.899999618530273,
+                  "children": [
+                    {
+                      "id": "145:831",
+                      "name": "Vector",
+                      "type": "VECTOR",
+                      "x": 81.5166015625,
+                      "y": 33.58001708984375,
+                      "w": 6.326666831970215,
+                      "h": 21.899999618530273,
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "visible": true,
+                          "opacity": 1,
+                          "blendMode": "NORMAL",
+                          "color": {
+                            "r": 0,
+                            "g": 0,
+                            "b": 0
+                          },
+                          "boundVariables": {}
+                        }
+                      ],
+                      "strokeWeight": 1.3333333730697632,
+                      "cornerRadius": 0,
+                      "constraints": {
+                        "horizontal": "SCALE",
+                        "vertical": "SCALE"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "145:832",
+                  "name": "Group",
+                  "type": "GROUP",
+                  "x": -15.279685974121094,
+                  "y": -15.323333740234375,
+                  "w": 176.52597045898438,
+                  "h": 176.5250244140625,
+                  "children": [
+                    {
+                      "id": "145:833",
+                      "name": "Clip path group",
+                      "type": "GROUP",
+                      "x": -15.279685974121094,
+                      "y": -15.323333740234375,
+                      "w": 176.52597045898438,
+                      "h": 176.5250244140625,
+                      "children": [
+                        {
+                          "id": "145:834",
+                          "name": "2721fae1dc",
+                          "type": "GROUP",
+                          "x": -15.279685974121094,
+                          "y": -15.323333740234375,
+                          "w": 176.52597045898438,
+                          "h": 176.5250244140625,
+                          "children": [
+                            {
+                              "id": "145:835",
+                              "name": "Vector",
+                              "type": "VECTOR",
+                              "x": -15.279685974121094,
+                              "y": -15.323333740234375,
+                              "w": 176.52597045898438,
+                              "h": 176.5250244140625,
+                              "fills": [
+                                {
+                                  "type": "SOLID",
+                                  "visible": true,
+                                  "opacity": 1,
+                                  "blendMode": "NORMAL",
+                                  "color": {
+                                    "r": 0,
+                                    "g": 0,
+                                    "b": 0
+                                  },
+                                  "boundVariables": {}
+                                }
+                              ],
+                              "strokeWeight": 1.3333333730697632,
+                              "cornerRadius": 0,
+                              "constraints": {
+                                "horizontal": "SCALE",
+                                "vertical": "SCALE"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "145:836",
+                          "name": "Group",
+                          "type": "GROUP",
+                          "x": -15.279685974121094,
+                          "y": -15.323333740234375,
+                          "w": 176.52597045898438,
+                          "h": 176.5250244140625,
+                          "children": [
+                            {
+                              "id": "145:837",
+                              "name": "Clip path group",
+                              "type": "GROUP",
+                              "x": -15.279685974121094,
+                              "y": -15.323333740234375,
+                              "w": 176.52597045898438,
+                              "h": 176.5250244140625,
+                              "children": [
+                                {
+                                  "id": "145:838",
+                                  "name": "36ed817c36",
+                                  "type": "GROUP",
+                                  "x": -15.279685974121094,
+                                  "y": -15.323333740234375,
+                                  "w": 176.52597045898438,
+                                  "h": 176.5250244140625,
+                                  "children": [
+                                    {
+                                      "id": "145:839",
+                                      "name": "Vector",
+                                      "type": "VECTOR",
+                                      "x": -15.279685974121094,
+                                      "y": -15.323333740234375,
+                                      "w": 176.52597045898438,
+                                      "h": 176.5250244140625,
+                                      "fills": [
+                                        {
+                                          "type": "SOLID",
+                                          "visible": true,
+                                          "opacity": 1,
+                                          "blendMode": "NORMAL",
+                                          "color": {
+                                            "r": 0,
+                                            "g": 0,
+                                            "b": 0
+                                          },
+                                          "boundVariables": {}
+                                        }
+                                      ],
+                                      "strokeWeight": 1.3333333730697632,
+                                      "cornerRadius": 0,
+                                      "constraints": {
+                                        "horizontal": "SCALE",
+                                        "vertical": "SCALE"
+                                      }
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "145:840",
+                                  "name": "Group",
+                                  "type": "GROUP",
+                                  "x": 81.7145004272461,
+                                  "y": 33.65068054199219,
+                                  "w": 5.938228607177734,
+                                  "h": 21.70050811767578,
+                                  "children": [
+                                    {
+                                      "id": "145:841",
+                                      "name": "Vector",
+                                      "type": "VECTOR",
+                                      "x": 81.7145004272461,
+                                      "y": 33.65068054199219,
+                                      "w": 5.938228607177734,
+                                      "h": 21.70050811767578,
+                                      "fills": [
+                                        {
+                                          "type": "SOLID",
+                                          "visible": true,
+                                          "opacity": 1,
+                                          "blendMode": "NORMAL",
+                                          "color": {
+                                            "r": 1,
+                                            "g": 1,
+                                            "b": 1
+                                          },
+                                          "boundVariables": {}
+                                        }
+                                      ],
+                                      "strokeWeight": 1.3333333730697632,
+                                      "cornerRadius": 0,
+                                      "constraints": {
+                                        "horizontal": "SCALE",
+                                        "vertical": "SCALE"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "145:842",
+              "name": "Clip path group",
+              "type": "GROUP",
+              "x": 88.086669921875,
+              "y": 45.01666259765625,
+              "w": 9.733333587646484,
+              "h": 7.300000190734863,
+              "children": [
+                {
+                  "id": "145:843",
+                  "name": "0b3f7cca4b",
+                  "type": "GROUP",
+                  "x": 88.086669921875,
+                  "y": 45.01666259765625,
+                  "w": 9.733333587646484,
+                  "h": 7.300000190734863,
+                  "children": [
+                    {
+                      "id": "145:844",
+                      "name": "Vector",
+                      "type": "VECTOR",
+                      "x": 88.086669921875,
+                      "y": 45.01666259765625,
+                      "w": 9.733333587646484,
+                      "h": 7.300000190734863,
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "visible": true,
+                          "opacity": 1,
+                          "blendMode": "NORMAL",
+                          "color": {
+                            "r": 0,
+                            "g": 0,
+                            "b": 0
+                          },
+                          "boundVariables": {}
+                        }
+                      ],
+                      "strokeWeight": 1.3333333730697632,
+                      "cornerRadius": 0,
+                      "constraints": {
+                        "horizontal": "SCALE",
+                        "vertical": "SCALE"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "145:845",
+                  "name": "Group",
+                  "type": "GROUP",
+                  "x": -15.279617309570312,
+                  "y": -15.323352813720703,
+                  "w": 176.52597045898438,
+                  "h": 176.5250244140625,
+                  "children": [
+                    {
+                      "id": "145:846",
+                      "name": "Clip path group",
+                      "type": "GROUP",
+                      "x": -15.279617309570312,
+                      "y": -15.323352813720703,
+                      "w": 176.52597045898438,
+                      "h": 176.5250244140625,
+                      "children": [
+                        {
+                          "id": "145:847",
+                          "name": "dba0ffaa85",
+                          "type": "GROUP",
+                          "x": -15.279617309570312,
+                          "y": -15.323352813720703,
+                          "w": 176.52597045898438,
+                          "h": 176.5250244140625,
+                          "children": [
+                            {
+                              "id": "145:848",
+                              "name": "Vector",
+                              "type": "VECTOR",
+                              "x": -15.279617309570312,
+                              "y": -15.323352813720703,
+                              "w": 176.52597045898438,
+                              "h": 176.5250244140625,
+                              "fills": [
+                                {
+                                  "type": "SOLID",
+                                  "visible": true,
+                                  "opacity": 1,
+                                  "blendMode": "NORMAL",
+                                  "color": {
+                                    "r": 0,
+                                    "g": 0,
+                                    "b": 0
+                                  },
+                                  "boundVariables": {}
+                                }
+                              ],
+                              "strokeWeight": 1.3333333730697632,
+                              "cornerRadius": 0,
+                              "constraints": {
+                                "horizontal": "SCALE",
+                                "vertical": "SCALE"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "145:849",
+                          "name": "Group",
+                          "type": "GROUP",
+                          "x": -15.279617309570312,
+                          "y": -15.323352813720703,
+                          "w": 176.52597045898438,
+                          "h": 176.5250244140625,
+                          "children": [
+                            {
+                              "id": "145:850",
+                              "name": "Clip path group",
+                              "type": "GROUP",
+                              "x": -15.279617309570312,
+                              "y": -15.323352813720703,
+                              "w": 176.52597045898438,
+                              "h": 176.5250244140625,
+                              "children": [
+                                {
+                                  "id": "145:851",
+                                  "name": "cbdbd08850",
+                                  "type": "GROUP",
+                                  "x": -15.279617309570312,
+                                  "y": -15.323352813720703,
+                                  "w": 176.52597045898438,
+                                  "h": 176.5250244140625,
+                                  "children": [
+                                    {
+                                      "id": "145:852",
+                                      "name": "Vector",
+                                      "type": "VECTOR",
+                                      "x": -15.279617309570312,
+                                      "y": -15.323352813720703,
+                                      "w": 176.52597045898438,
+                                      "h": 176.5250244140625,
+                                      "fills": [
+                                        {
+                                          "type": "SOLID",
+                                          "visible": true,
+                                          "opacity": 1,
+                                          "blendMode": "NORMAL",
+                                          "color": {
+                                            "r": 0,
+                                            "g": 0,
+                                            "b": 0
+                                          },
+                                          "boundVariables": {}
+                                        }
+                                      ],
+                                      "strokeWeight": 1.3333333730697632,
+                                      "cornerRadius": 0,
+                                      "constraints": {
+                                        "horizontal": "SCALE",
+                                        "vertical": "SCALE"
+                                      }
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "145:853",
+                                  "name": "Group",
+                                  "type": "GROUP",
+                                  "x": 88.26346588134766,
+                                  "y": 45.20060348510742,
+                                  "w": 9.554849624633789,
+                                  "h": 6.887191295623779,
+                                  "children": [
+                                    {
+                                      "id": "145:854",
+                                      "name": "Vector",
+                                      "type": "VECTOR",
+                                      "x": 88.26346588134766,
+                                      "y": 45.20060348510742,
+                                      "w": 9.554849624633789,
+                                      "h": 6.887191295623779,
+                                      "fills": [
+                                        {
+                                          "type": "SOLID",
+                                          "visible": true,
+                                          "opacity": 1,
+                                          "blendMode": "NORMAL",
+                                          "color": {
+                                            "r": 1,
+                                            "g": 1,
+                                            "b": 1
+                                          },
+                                          "boundVariables": {}
+                                        }
+                                      ],
+                                      "strokeWeight": 1.3333333730697632,
+                                      "cornerRadius": 0,
+                                      "constraints": {
+                                        "horizontal": "SCALE",
+                                        "vertical": "SCALE"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "145:855",
+              "name": "Clip path group",
+              "type": "GROUP",
+              "x": 76.40673828125,
+              "y": 36.986663818359375,
+              "w": 8.029999732971191,
+              "h": 7.543334007263184,
+              "children": [
+                {
+                  "id": "145:856",
+                  "name": "d1ba0472a3",
+                  "type": "GROUP",
+                  "x": 76.40673828125,
+                  "y": 36.986663818359375,
+                  "w": 8.029999732971191,
+                  "h": 7.543334007263184,
+                  "children": [
+                    {
+                      "id": "145:857",
+                      "name": "Vector",
+                      "type": "VECTOR",
+                      "x": 76.40673828125,
+                      "y": 36.986663818359375,
+                      "w": 8.029999732971191,
+                      "h": 7.543334007263184,
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "visible": true,
+                          "opacity": 1,
+                          "blendMode": "NORMAL",
+                          "color": {
+                            "r": 0,
+                            "g": 0,
+                            "b": 0
+                          },
+                          "boundVariables": {}
+                        }
+                      ],
+                      "strokeWeight": 1.3333333730697632,
+                      "cornerRadius": 0,
+                      "constraints": {
+                        "horizontal": "SCALE",
+                        "vertical": "SCALE"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "145:858",
+                  "name": "Group",
+                  "type": "GROUP",
+                  "x": -15.279548645019531,
+                  "y": -15.323348999023438,
+                  "w": 176.52597045898438,
+                  "h": 176.5250244140625,
+                  "children": [
+                    {
+                      "id": "145:859",
+                      "name": "Clip path group",
+                      "type": "GROUP",
+                      "x": -15.279548645019531,
+                      "y": -15.323348999023438,
+                      "w": 176.52597045898438,
+                      "h": 176.5250244140625,
+                      "children": [
+                        {
+                          "id": "145:860",
+                          "name": "a56c745356",
+                          "type": "GROUP",
+                          "x": -15.279548645019531,
+                          "y": -15.323348999023438,
+                          "w": 176.52597045898438,
+                          "h": 176.5250244140625,
+                          "children": [
+                            {
+                              "id": "145:861",
+                              "name": "Vector",
+                              "type": "VECTOR",
+                              "x": -15.279548645019531,
+                              "y": -15.323348999023438,
+                              "w": 176.52597045898438,
+                              "h": 176.5250244140625,
+                              "fills": [
+                                {
+                                  "type": "SOLID",
+                                  "visible": true,
+                                  "opacity": 1,
+                                  "blendMode": "NORMAL",
+                                  "color": {
+                                    "r": 0,
+                                    "g": 0,
+                                    "b": 0
+                                  },
+                                  "boundVariables": {}
+                                }
+                              ],
+                              "strokeWeight": 1.3333333730697632,
+                              "cornerRadius": 0,
+                              "constraints": {
+                                "horizontal": "SCALE",
+                                "vertical": "SCALE"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "145:862",
+                          "name": "Group",
+                          "type": "GROUP",
+                          "x": -15.279548645019531,
+                          "y": -15.323348999023438,
+                          "w": 176.52597045898438,
+                          "h": 176.5250244140625,
+                          "children": [
+                            {
+                              "id": "145:863",
+                              "name": "Clip path group",
+                              "type": "GROUP",
+                              "x": -15.279548645019531,
+                              "y": -15.323348999023438,
+                              "w": 176.52597045898438,
+                              "h": 176.5250244140625,
+                              "children": [
+                                {
+                                  "id": "145:864",
+                                  "name": "d5be6d0746",
+                                  "type": "GROUP",
+                                  "x": -15.279548645019531,
+                                  "y": -15.323348999023438,
+                                  "w": 176.52597045898438,
+                                  "h": 176.5250244140625,
+                                  "children": [
+                                    {
+                                      "id": "145:865",
+                                      "name": "Vector",
+                                      "type": "VECTOR",
+                                      "x": -15.279548645019531,
+                                      "y": -15.323348999023438,
+                                      "w": 176.52597045898438,
+                                      "h": 176.5250244140625,
+                                      "fills": [
+                                        {
+                                          "type": "SOLID",
+                                          "visible": true,
+                                          "opacity": 1,
+                                          "blendMode": "NORMAL",
+                                          "color": {
+                                            "r": 0,
+                                            "g": 0,
+                                            "b": 0
+                                          },
+                                          "boundVariables": {}
+                                        }
+                                      ],
+                                      "strokeWeight": 1.3333333730697632,
+                                      "cornerRadius": 0,
+                                      "constraints": {
+                                        "horizontal": "SCALE",
+                                        "vertical": "SCALE"
+                                      }
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "145:866",
+                                  "name": "Group",
+                                  "type": "GROUP",
+                                  "x": 76.59059143066406,
+                                  "y": 37.057003021240234,
+                                  "w": 7.668410778045654,
+                                  "h": 7.373190402984619,
+                                  "children": [
+                                    {
+                                      "id": "145:867",
+                                      "name": "Vector",
+                                      "type": "VECTOR",
+                                      "x": 76.59059143066406,
+                                      "y": 37.057003021240234,
+                                      "w": 7.668410778045654,
+                                      "h": 7.373190402984619,
+                                      "fills": [
+                                        {
+                                          "type": "SOLID",
+                                          "visible": true,
+                                          "opacity": 1,
+                                          "blendMode": "NORMAL",
+                                          "color": {
+                                            "r": 1,
+                                            "g": 1,
+                                            "b": 1
+                                          },
+                                          "boundVariables": {}
+                                        }
+                                      ],
+                                      "strokeWeight": 1.3333333730697632,
+                                      "cornerRadius": 0,
+                                      "constraints": {
+                                        "horizontal": "SCALE",
+                                        "vertical": "SCALE"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "145:868",
+              "name": "Clip path group",
+              "type": "GROUP",
+              "x": 88.086669921875,
+              "y": 45.01666259765625,
+              "w": 9.733333587646484,
+              "h": 7.300000190734863,
+              "children": [
+                {
+                  "id": "145:869",
+                  "name": "c0c7f4d252",
+                  "type": "GROUP",
+                  "x": 88.086669921875,
+                  "y": 45.01666259765625,
+                  "w": 9.733333587646484,
+                  "h": 7.300000190734863,
+                  "children": [
+                    {
+                      "id": "145:870",
+                      "name": "Vector",
+                      "type": "VECTOR",
+                      "x": 88.086669921875,
+                      "y": 45.01666259765625,
+                      "w": 9.733333587646484,
+                      "h": 7.300000190734863,
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "visible": true,
+                          "opacity": 1,
+                          "blendMode": "NORMAL",
+                          "color": {
+                            "r": 0,
+                            "g": 0,
+                            "b": 0
+                          },
+                          "boundVariables": {}
+                        }
+                      ],
+                      "strokeWeight": 1.3333333730697632,
+                      "cornerRadius": 0,
+                      "constraints": {
+                        "horizontal": "SCALE",
+                        "vertical": "SCALE"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "145:871",
+                  "name": "Group",
+                  "type": "GROUP",
+                  "x": -15.279617309570312,
+                  "y": -15.323352813720703,
+                  "w": 176.52597045898438,
+                  "h": 176.5250244140625,
+                  "children": [
+                    {
+                      "id": "145:872",
+                      "name": "Clip path group",
+                      "type": "GROUP",
+                      "x": -15.279617309570312,
+                      "y": -15.323352813720703,
+                      "w": 176.52597045898438,
+                      "h": 176.5250244140625,
+                      "children": [
+                        {
+                          "id": "145:873",
+                          "name": "2f13ec3e13",
+                          "type": "GROUP",
+                          "x": -15.279617309570312,
+                          "y": -15.323352813720703,
+                          "w": 176.52597045898438,
+                          "h": 176.5250244140625,
+                          "children": [
+                            {
+                              "id": "145:874",
+                              "name": "Vector",
+                              "type": "VECTOR",
+                              "x": -15.279617309570312,
+                              "y": -15.323352813720703,
+                              "w": 176.52597045898438,
+                              "h": 176.5250244140625,
+                              "fills": [
+                                {
+                                  "type": "SOLID",
+                                  "visible": true,
+                                  "opacity": 1,
+                                  "blendMode": "NORMAL",
+                                  "color": {
+                                    "r": 0,
+                                    "g": 0,
+                                    "b": 0
+                                  },
+                                  "boundVariables": {}
+                                }
+                              ],
+                              "strokeWeight": 1.3333333730697632,
+                              "cornerRadius": 0,
+                              "constraints": {
+                                "horizontal": "SCALE",
+                                "vertical": "SCALE"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "145:875",
+                          "name": "Group",
+                          "type": "GROUP",
+                          "x": -15.279617309570312,
+                          "y": -15.323352813720703,
+                          "w": 176.52597045898438,
+                          "h": 176.5250244140625,
+                          "children": [
+                            {
+                              "id": "145:876",
+                              "name": "Clip path group",
+                              "type": "GROUP",
+                              "x": -15.279617309570312,
+                              "y": -15.323352813720703,
+                              "w": 176.52597045898438,
+                              "h": 176.5250244140625,
+                              "children": [
+                                {
+                                  "id": "145:877",
+                                  "name": "07e565ce47",
+                                  "type": "GROUP",
+                                  "x": -15.279617309570312,
+                                  "y": -15.323352813720703,
+                                  "w": 176.52597045898438,
+                                  "h": 176.5250244140625,
+                                  "children": [
+                                    {
+                                      "id": "145:878",
+                                      "name": "Vector",
+                                      "type": "VECTOR",
+                                      "x": -15.279617309570312,
+                                      "y": -15.323352813720703,
+                                      "w": 176.52597045898438,
+                                      "h": 176.5250244140625,
+                                      "fills": [
+                                        {
+                                          "type": "SOLID",
+                                          "visible": true,
+                                          "opacity": 1,
+                                          "blendMode": "NORMAL",
+                                          "color": {
+                                            "r": 0,
+                                            "g": 0,
+                                            "b": 0
+                                          },
+                                          "boundVariables": {}
+                                        }
+                                      ],
+                                      "strokeWeight": 1.3333333730697632,
+                                      "cornerRadius": 0,
+                                      "constraints": {
+                                        "horizontal": "SCALE",
+                                        "vertical": "SCALE"
+                                      }
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "145:879",
+                                  "name": "Group",
+                                  "type": "GROUP",
+                                  "x": 88.26251983642578,
+                                  "y": 45.200950622558594,
+                                  "w": 9.555800437927246,
+                                  "h": 6.887322425842285,
+                                  "children": [
+                                    {
+                                      "id": "145:880",
+                                      "name": "Vector",
+                                      "type": "VECTOR",
+                                      "x": 88.26251983642578,
+                                      "y": 45.200950622558594,
+                                      "w": 9.555800437927246,
+                                      "h": 6.887322425842285,
+                                      "fills": [
+                                        {
+                                          "type": "SOLID",
+                                          "visible": true,
+                                          "opacity": 1,
+                                          "blendMode": "NORMAL",
+                                          "color": {
+                                            "r": 0.9882352948188782,
+                                            "g": 0.9921568632125854,
+                                            "b": 0.4588235318660736
+                                          },
+                                          "boundVariables": {}
+                                        }
+                                      ],
+                                      "strokeWeight": 1.3333333730697632,
+                                      "cornerRadius": 0,
+                                      "constraints": {
+                                        "horizontal": "SCALE",
+                                        "vertical": "SCALE"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "145:881",
+              "name": "Clip path group",
+              "type": "GROUP",
+              "x": 76.40673828125,
+              "y": 36.986663818359375,
+              "w": 8.029999732971191,
+              "h": 7.543334007263184,
+              "children": [
+                {
+                  "id": "145:882",
+                  "name": "bef6603f2e",
+                  "type": "GROUP",
+                  "x": 76.40673828125,
+                  "y": 36.986663818359375,
+                  "w": 8.029999732971191,
+                  "h": 7.543334007263184,
+                  "children": [
+                    {
+                      "id": "145:883",
+                      "name": "Vector",
+                      "type": "VECTOR",
+                      "x": 76.40673828125,
+                      "y": 36.986663818359375,
+                      "w": 8.029999732971191,
+                      "h": 7.543334007263184,
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "visible": true,
+                          "opacity": 1,
+                          "blendMode": "NORMAL",
+                          "color": {
+                            "r": 0,
+                            "g": 0,
+                            "b": 0
+                          },
+                          "boundVariables": {}
+                        }
+                      ],
+                      "strokeWeight": 1.3333333730697632,
+                      "cornerRadius": 0,
+                      "constraints": {
+                        "horizontal": "SCALE",
+                        "vertical": "SCALE"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "145:884",
+                  "name": "Group",
+                  "type": "GROUP",
+                  "x": -15.279548645019531,
+                  "y": -15.323348999023438,
+                  "w": 176.52597045898438,
+                  "h": 176.5250244140625,
+                  "children": [
+                    {
+                      "id": "145:885",
+                      "name": "Clip path group",
+                      "type": "GROUP",
+                      "x": -15.279548645019531,
+                      "y": -15.323348999023438,
+                      "w": 176.52597045898438,
+                      "h": 176.5250244140625,
+                      "children": [
+                        {
+                          "id": "145:886",
+                          "name": "2de102b25b",
+                          "type": "GROUP",
+                          "x": -15.279548645019531,
+                          "y": -15.323348999023438,
+                          "w": 176.52597045898438,
+                          "h": 176.5250244140625,
+                          "children": [
+                            {
+                              "id": "145:887",
+                              "name": "Vector",
+                              "type": "VECTOR",
+                              "x": -15.279548645019531,
+                              "y": -15.323348999023438,
+                              "w": 176.52597045898438,
+                              "h": 176.5250244140625,
+                              "fills": [
+                                {
+                                  "type": "SOLID",
+                                  "visible": true,
+                                  "opacity": 1,
+                                  "blendMode": "NORMAL",
+                                  "color": {
+                                    "r": 0,
+                                    "g": 0,
+                                    "b": 0
+                                  },
+                                  "boundVariables": {}
+                                }
+                              ],
+                              "strokeWeight": 1.3333333730697632,
+                              "cornerRadius": 0,
+                              "constraints": {
+                                "horizontal": "SCALE",
+                                "vertical": "SCALE"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "145:888",
+                          "name": "Group",
+                          "type": "GROUP",
+                          "x": -15.279548645019531,
+                          "y": -15.323348999023438,
+                          "w": 176.52597045898438,
+                          "h": 176.5250244140625,
+                          "children": [
+                            {
+                              "id": "145:889",
+                              "name": "Clip path group",
+                              "type": "GROUP",
+                              "x": -15.279548645019531,
+                              "y": -15.323348999023438,
+                              "w": 176.52597045898438,
+                              "h": 176.5250244140625,
+                              "children": [
+                                {
+                                  "id": "145:890",
+                                  "name": "fd2d06ec26",
+                                  "type": "GROUP",
+                                  "x": -15.279548645019531,
+                                  "y": -15.323348999023438,
+                                  "w": 176.52597045898438,
+                                  "h": 176.5250244140625,
+                                  "children": [
+                                    {
+                                      "id": "145:891",
+                                      "name": "Vector",
+                                      "type": "VECTOR",
+                                      "x": -15.279548645019531,
+                                      "y": -15.323348999023438,
+                                      "w": 176.52597045898438,
+                                      "h": 176.5250244140625,
+                                      "fills": [
+                                        {
+                                          "type": "SOLID",
+                                          "visible": true,
+                                          "opacity": 1,
+                                          "blendMode": "NORMAL",
+                                          "color": {
+                                            "r": 0,
+                                            "g": 0,
+                                            "b": 0
+                                          },
+                                          "boundVariables": {}
+                                        }
+                                      ],
+                                      "strokeWeight": 1.3333333730697632,
+                                      "cornerRadius": 0,
+                                      "constraints": {
+                                        "horizontal": "SCALE",
+                                        "vertical": "SCALE"
+                                      }
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "145:892",
+                                  "name": "Group",
+                                  "type": "GROUP",
+                                  "x": 76.59008026123047,
+                                  "y": 37.057003021240234,
+                                  "w": 7.668924331665039,
+                                  "h": 7.374140739440918,
+                                  "children": [
+                                    {
+                                      "id": "145:893",
+                                      "name": "Vector",
+                                      "type": "VECTOR",
+                                      "x": 76.59008026123047,
+                                      "y": 37.057003021240234,
+                                      "w": 7.668924331665039,
+                                      "h": 7.374140739440918,
+                                      "fills": [
+                                        {
+                                          "type": "SOLID",
+                                          "visible": true,
+                                          "opacity": 1,
+                                          "blendMode": "NORMAL",
+                                          "color": {
+                                            "r": 0.9882352948188782,
+                                            "g": 0.9921568632125854,
+                                            "b": 0.4588235318660736
+                                          },
+                                          "boundVariables": {}
+                                        }
+                                      ],
+                                      "strokeWeight": 1.3333333730697632,
+                                      "cornerRadius": 0,
+                                      "constraints": {
+                                        "horizontal": "SCALE",
+                                        "vertical": "SCALE"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
